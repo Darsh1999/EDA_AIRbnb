@@ -1,3 +1,4 @@
+![alt text](https://user-images.githubusercontent.com/87125043/142826226-500c2bc7-5edb-4243-8aef-5900d6024aec.jpeg)
 # Airbnb EDA Project
 This is the Capstone project which is a part of my Data Science course at AlmaBetter. 
 
